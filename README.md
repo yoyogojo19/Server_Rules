@@ -10,7 +10,7 @@
 
 1. **Use common sense** while using this server. Respect others and the purpose of each channel.
 2. **No NSFW or 18+ content** is allowed. Posting such content will result in an **immediate and permanent ban**.
-3. The `**guides-...` channels** are for **information only**. If you want to discuss unrelated topics, use the appropriate channels.
+3. The **`guides-...` channels** are for **information only**. If you want to discuss unrelated topics, use the appropriate channels.
 4. **I am not a genius**: If I can’t answer your question, we can work together to find a solution, but I won’t do the work for you.
 5. **Intimidation, harassment, or bullying** toward anyone will result in a **4-day ban**. Repeat offenses may lead to a permanent ban.
 6. **Be respectful**: No insults or offensive language. For a list of recognized insults, [see this link](#) *(TODO: add link)*.
