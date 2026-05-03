@@ -13,7 +13,7 @@
 3. The **`guides-...` channels** are for **information only**. If you want to discuss unrelated topics, use the appropriate channels.
 4. **I am not a genius**: If I can’t answer your question, we can work together to find a solution, but I won’t do the work for you.
 5. **Intimidation, harassment, or bullying** toward anyone will result in a **4-day ban**. Repeat offenses may lead to a permanent ban.
-6. **Be respectful**: No insults or offensive language. For a list of recognized insults, [see this link](#) *(TODO: add link)*.
+6. **Be respectful**: No insults or offensive language. For a list of recognized insults, [see this link](https://github.com/yoyogojo19/Server_Rules/blob/main/ListOfInsults.md).
 7. The **music recommendation channel** is for sharing music that is **LGBTQ+-friendly, non-racist, and free of unsensored swear words**.
 
 ---
@@ -61,5 +61,5 @@
 
 ---
 
-*Last updated: [2026/5/3 11:30 AM UCT-4H]*  
+*Last updated: [2026/5/3 11:57 AM UCT-4H]*  
 *For questions or clarifications, contact a moderator.*
